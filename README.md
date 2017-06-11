@@ -1,2 +1,7 @@
 # hello-world
-this is a short description
+Hi there, 
+
+I'm new to this. Let's get started. 
+
+Best-yo
+Yegor
